@@ -1,47 +1,39 @@
-## README File Generator
+## README Generator
   ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
   ## Description
-  ```
-  It generates README files
-  ```
+
+  INs
 
   ## Table of contents
-  ```
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Contribution](#Contribution)
-  - [Testing](#Testing)
-  - [Questions](#Questions)
-  ```
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Questions](#questions)
 
   ## Installation
-  ```
-  With the terminal
-  ```
+
+  fdf
 
   ## Usage
-  ```
-  You answers each question and then the README file is created
+
+  dedff
 
   ## License 
  The proyect follows the ISC license guidelines. 
  For more information, click the following link: (https://opensource.org/licenses/ISC)
-  ```
 
   ## Contribution
-  ```
-  Contact me
-  ```
+
+  jdbs
 
   ## Testing
-  ```
-  With the terminal
-  ```
+
+  feed
 
   ## Questions
-  ```
+
   For any questions or comments, please contact the developer at: emiliofriastapia2705@outlook.com or visit the following GitHub profile [here](https://github.com/emiliocolds)
-  ```
   
