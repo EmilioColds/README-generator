@@ -29,7 +29,7 @@ const questions = [
     type: "list",
     name: "proyectLicense",
     message: "Select the license that your proyect uses:",
-    choices: ["MIT", "Apache 2.0", "ISC", "None"],
+    choices: ["MIT", "Apache2.0", "ISC", "None"],
   },
   {
     type: "input",
