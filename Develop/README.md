@@ -1,9 +1,9 @@
-## README Generator
-  ![License](https://img.shields.io/badge/license-ISC-blue.svg)
+## README File Generator
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
 
-  INs
+  With this proyect any develepor will be able to create a professional README file by only answering some brief questions. After answering the questions, the file will be created instantly
 
   ## Table of contents
   - [Installation](#installation)
@@ -15,23 +15,23 @@
 
   ## Installation
 
-  fdf
+  You just need to have NODE.JS installed in your computer, also need to install Inquirer Version 8.2.4 and have these javascript files.
 
   ## Usage
 
-  dedff
+  In the terminal, you need to type "node index.js" to start the questions. Just answer these questions and the README file will be created
 
   ## License 
- The proyect follows the ISC license guidelines. 
- For more information, click the following link: (https://opensource.org/licenses/ISC)
+ The proyect follows the MIT license guidelines. 
+ For more information, click the following link: (https://opensource.org/licenses/MIT)
 
   ## Contribution
 
-  jdbs
+  Please contact me
 
   ## Testing
 
-  feed
+  It will be tested locally via the terminal
 
   ## Questions
 
